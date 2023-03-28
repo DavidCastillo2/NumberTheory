@@ -1,5 +1,5 @@
 # NumberTheory
-The purpose of this project is to solve each problem step by step. This allows for both validation of your own solutions along with spotting where an incorrect step was made. This also allows for those that learn through patterns to see many problems solved at once to see how things flow for any of the given problems.
+The purpose of this project is to solve each problem step by step. This allows for both validation of your solutions along with spotting where an incorrect step was made. This also allows those that learn through patterns to see many problems solved at once to see how things flow for any of the given problems.
 This code implements the following mathematical operations/solutions discussed in Number Theory taught at NCF:
 
 1.  GCD (Greatest Common Denominator)
