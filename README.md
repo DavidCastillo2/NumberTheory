@@ -15,3 +15,8 @@ This code implements the following mathematical operations/solutions discussed i
 11. Ceaser Cipher
 12. Inverse Modulo
 13. Affine Transformations
+
+
+## Example of an output
+*Note that all steps are shown including basic operations. This is the goal, to have a way to easily check your own math and pinpoint where you went wrong quickly and why.
+![image](https://user-images.githubusercontent.com/58519904/228370283-b429730e-7dcb-42b3-9cfa-5219ec62c8a6.png)
